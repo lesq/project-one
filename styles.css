@@ -1,2 +1,13 @@
 font-family: 'Domine', serif;
 font-family: 'Merriweather Sans', sans-serif;
+p{
+    text-align: left
+}
+img{
+    width:400px;
+    margin:10px auto;
+    padding:20px;
+    border-width:8px;
+    border:8px solid black;
+    align-content: left
+}
